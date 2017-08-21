@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Apercu;
+    src: url('Apercu_Medium.otf');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Apercu';
+  background-color: #1E3264;
+}
+
+
+.container{
+  display: block;
+  border: 8px solid white;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+
+
+.banner{
+  max-width: 100%;
+  max-height: 100vh;
+}
+
+
+.contact{
+  max-width: 50px;
+  max-height: 50px;
+}
